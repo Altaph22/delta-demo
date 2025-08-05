@@ -4,4 +4,5 @@ This is a demo for git  and  git hub class.
 #Teacher
 Altaph Alam
 #Student
-Dlta students
+Delta student
+#Web developer
